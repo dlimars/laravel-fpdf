@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Anouar\\Fpdf": "src/"
+            "Anouar\\Fpdf_fi": "src/"
         }
     },
     "minimum-stability": "dev"
