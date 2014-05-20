@@ -1,6 +1,6 @@
 {
-    "name": "anouar/fpdf",
-    "description": "Fpdf allows to generate PDF files",
+    "name": "dlima/fpdf",
+    "description": "Fpdf allows to generate PDF files - Fork of Anouar/FPDF",
     "license": "BSD-2-Clause",
     "authors": [
         {
